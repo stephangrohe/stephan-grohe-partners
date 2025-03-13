@@ -1,6 +1,13 @@
 Impressum
+
+-------------
+
+
+
 Verantwortlich
+
 Der Inhalt dieses Servers wird gestaltet von GrohePartners - Stephan Grohe
+
 Stephan Grohe
 Ledererzeile 56
 83512 Wasserburg
@@ -13,8 +20,13 @@ Ledererzeile 56
 
 
 Urheberrecht
+
 Alle Rechte vorbehalten. Insbesondere dürfen Vervielfältigungen nur nach vorheriger schriftlicher Zustimmung des Anbieters erfolgen. Mit der Nutzung der Webseite https://stephangrohe.github.io/stephan-grohe-partners/  erklären Sie sich mit unseren Nutzungsbedingungen einverstanden. Für die Richtigkeit und Vollständigkeit wird keine Gewähr übernommen. Dasselbe gilt für die Inhalte Dritter, die über diese Seiten zugänglich gemacht werden. In keinem Fall wird für Schäden, die sich aus der Verwendung der abgerufenen Informationen oder dem Versenden von Informationen ergeben könnten, eine Haftung übernommen.
+
+
+
 Haftungsausschluss
+
 Die bereitgestellten Informationen auf den Webseiten
 https://stephangrohe.github.io/stephan-grohe-partners/ wurden sorgfältig
 geprüft und werden regelmäßig aktualisiert. Jedoch kann keine Haftung oder
